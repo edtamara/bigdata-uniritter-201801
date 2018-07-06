@@ -1,3 +1,4 @@
+#ec2-23-20-137-129.compute-1.amazonaws.com
 #cd sparkling-water-2.3.8
 #PYSPARK_DRIVER_PYTHON="ipython" bin/pysparkling --conf spark.scheduler.minRegisteredResourcesRatio=1 --conf spark.dynamicAllocation.enabled=false --conf spark.executor.instances=5
 
